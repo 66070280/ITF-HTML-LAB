@@ -1,0 +1,27 @@
+body {
+    background-color:lavender
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-style:oblique
+}
+
+.container {
+    margin: 250px;
+}
+
+#paragraph {
+    background-color:bisque;
+    padding: 4px;
+    border:10px rgb(211, 223, 69) dotted;
+    margin-top: 2px;
+    width: 750px;
+    height: 410px;
+}
+
+#div {
+    font-size: 20px;
+    font-style:oblique;
+}
